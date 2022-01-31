@@ -1,4 +1,3 @@
-cat > poolMetaData.json << EOF
 {
 "name": "MOTO Stake Pool",
 "description": "Ride Together",
