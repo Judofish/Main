@@ -1,0 +1,28 @@
+{
+        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "location": "Sydney, Australia",
+        "social": {
+            "twitter_handle": "https://twitter.com/MotoStakePool",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "MotoStakePool",
+            "addr": "101",
+            "city": "Sydney",
+            "country": "AUSTRALIA",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "TEAM",
+            "server": "Sydney Server HUB,Fast GB internet connection running latest Hardware",
+            "company": ""
+        }
+    }
+}
