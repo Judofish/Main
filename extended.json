@@ -1,6 +1,6 @@
 {
-        "url_png_icon_64x64": "https://tinyurl.com/2p8wby7v",
-        "url_png_logo": "https://tinyurl.com/2p8wby7v",
+        "url_png_icon_64x64": "https://motostakepool.com/64x64moto.png",
+        "url_png_logo": "https://motostakepool.com/300x300moto.png",
         "location": "Sydney, Australia",
         "social": {
             "twitter_handle": "https://twitter.com/MotoStakePool",
@@ -20,8 +20,8 @@
             "vat_id": ""
         },
         "about": {
-            "me": "TEAM MOTO",
-            "server": "Sydney Server HUB,Fast GB internet connection running latest Hardware",
+            "me": "TEAM MOTO, We are a dedicated team here for the long term, Always 0.00% Fees on MOTO, We want to give back to the world, Please help us get there, Ride with us! ",
+            "server": "Sydney Server HUB,Fast GB internet connection running latest Hardware with multiple relays for 24/7 uptime",
             "company": ""
         }
     }
